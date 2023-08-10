@@ -29,7 +29,7 @@ import (
 	"os"
 	"os/signal"
 
-	cluster "github.com/bsm/sarama-cluster"
+	cluster "github.com/IzhakJakov/sarama-cluster"
 )
 
 func main() {
@@ -93,7 +93,7 @@ import (
   "os"
   "os/signal"
 
-  cluster "github.com/bsm/sarama-cluster"
+  cluster "github.com/IzhakJakov/sarama-cluster"
 )
 
 func main() {
